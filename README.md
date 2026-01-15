@@ -18,3 +18,14 @@ Projeto de estudo em Java que simula o funcionamento básico de um sistema de es
 1. Clone o repositório:
 ```bash
 git clone https://github.com/SEU-USUARIO/estacionamento-java.git
+Abra o projeto no IntelliJ IDEA
+
+Execute a classe Main.java
+src/
+ ├── Main.java
+ ├── Estacionamento.java
+ ├── Ticket.java
+ └── Cartao.java
+🎯 Objetivo
+
+Projeto desenvolvido com fins educacionais para praticar lógica de programação e conceitos iniciais de orientação a objetos em Java.
